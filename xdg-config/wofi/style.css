@@ -1,0 +1,12 @@
+#window {
+  font-family: Ubuntu;
+  font-size: 20px;
+  font-weight: 500; 
+}
+
+#outer-box {
+  border: solid;
+  border-width: 3px;
+  border-color: #6A9589;
+  border-radius: 7px;
+}
