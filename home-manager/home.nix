@@ -21,6 +21,9 @@
     ./browser.nix
     ./hypr.nix
     ./git.nix
+    ./kitty.nix
+    ./yazi.nix
+    ./wlogout.nix
   ];
 
   nixpkgs = {
